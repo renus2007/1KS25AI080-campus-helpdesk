@@ -1,2 +1,5 @@
 Draft notes
+<<<<<<< HEAD
 Prepare equipment guide
+=======
+>>>>>>> e82cde1 (Intial files staged)

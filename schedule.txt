@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Session: 15:30
 
+=======
+Session: 10:00
+>>>>>>> e82cde1 (Intial files staged)

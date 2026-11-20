@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Colour: orange
+=======
+Colour: blue
+>>>>>>> e82cde1 (Intial files staged)

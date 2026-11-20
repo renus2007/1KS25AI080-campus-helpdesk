@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Equipment desk revision 2
+=======
+Helpdesk version 1
+>>>>>>> e82cde1 (Intial files staged)
